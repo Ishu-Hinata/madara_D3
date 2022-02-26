@@ -372,39 +372,39 @@ def kazuko_about_callback(update, context):
     query = update.callback_query
     if query.data == "kazuko_":
         query.message.edit_text(
-            text="""I'm *Kazuko*, a powerful group management bot built to help you manage your group easily.
+            text="""I'm *MADARA UCHIHA*, The GHOST of Uchiha🩸❟❛❟🩸 Reanimated to help you manage your group easily.
 
-• I can restrict users.
-• I can greet users with customizable welcome messages and even set a group's rules.
-• I have an advanced anti-flood system.
-• I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
-• I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
-• I check for admins'permissions before executing any command and more stuffs
+🎴 I can restrict users.
+🍃 I can greet users with customizable welcome messages and even set a group's rules.
+🎴 I have an advanced anti-flood system.
+🍃 I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
+🎴 I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
+🍃 I check for admins'permissions before executing any command and more stuffs
 \n_Kazuko's licensed under the GNU General Public License v3.0_
-Have any question about Kazuko?, let us know at Kazuko's support chat.
+Have any question about Madara?, let us know at Madara's support chat.
 and also almost all modules usage defined in the help menu, checkout by sending /help
-or choosing help button at home menu and report error/bugs at Kazuko's support chat...""",
+or choosing help button at home menu and report error/bugs at Madara's support chat...""",
 
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(
-                            text=" Setup Guide ", url="https://t.me/KazukoUpdates/22",
+                        InlineKeyboardButton(KazukoUpdates
+                            text=" Setup Guide ", url="https://telegra.ph/Madara-robot-Setup-guid-02-26",
                         ),
-                        InlineKeyboardButton(text="T & C", url="https://telegra.ph/Terms-and-Conditions-10-26",
+                        InlineKeyboardButton(text="T & C", url="https://telegra.ph/Madara-robot-T--C-02-26",
                         ),
                         InlineKeyboardButton(
-                            text="Source code", url="https://github.com/heyaaman/KazukoBot",
+                            text=" 🎴🩸🍃", url="https://t.me/+XFNLmi85Z8g0NzM9",
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Network", url="https://t.me/Phoenix_Empire/28",
+                            text="Network", url="https://t.me/+XFNLmi85Z8g0NzM9",
                         ),   
                         InlineKeyboardButton(
-                            text="Gban logs", url="https://t.me/CFC_BotsGban_logs",
+                            text="Gban logs", url="https://t.me/madara_botLog",
                         ),   
                     ],     
                     [InlineKeyboardButton(text="Back", callback_data="kazuko_back")],
@@ -425,8 +425,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *kazuko*
-                 \nHere is the [Source Code](https://github.com/heyaaman/KazukoBot) .""",
+            text=""" Hai.. I'm *Madara*
+                 \nHere is the [🎴🩸🍃](https://t.me/+XFNLmi85Z8g0NzM9) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
