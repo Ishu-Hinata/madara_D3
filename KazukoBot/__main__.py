@@ -80,12 +80,14 @@ I'm 𝐭𝐡𝐞 𝐆𝐡𝐨𝐬𝐭 𝐨𝐟 𝐔𝐜𝐡𝐢𝐡𝐚🎴, �
 𝐃𝐨 𝐧𝐨𝐭 𝐦𝐢𝐬𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐭𝐡𝐢𝐬, 𝐭𝐡𝐢𝐬 𝐢𝐬 𝐧𝐨𝐭 𝐲𝐨𝐮𝐫 𝐩𝐨𝐰𝐞𝐫 𝐨𝐟 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧.
 
 My Basic Jutsu that i can help you with are:
-❛☉❟ Warning system
-❛☉❟ Artificial intelligence
-❛☉❟ Flood control system
-❛☉❟ Note keeping system
-❛☉❟ Filters keeping system
-❛☉❟ Approvals and much more.
+❛☉❟ I can protect your group from Enemies.
+❛☉❟ I can greet allies with customizable welcome messages and also set a group's rules.
+❛☉❟ I have an advanced anti-flood Jutsu.
+❛☉❟ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick.
+❛☉❟ What else you expect from a group management bot -_-
+❛☉❟ 🎴Hey, aren't you tired of using those girlish bots in your group 🥷🏻,
+
+   Why not replace them with this Badass Bot🔥
 
 So what are you waiting for?
 Add me in your groups and promote me to make me function well[.](https://telegra.ph/file/8b5265effe0dc1d43f829.jpg)
