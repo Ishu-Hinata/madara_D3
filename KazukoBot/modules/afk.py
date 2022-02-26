@@ -58,12 +58,12 @@ def no_longer_afk(update: Update, context: CallbackContext):
         firstname = update.effective_user.first_name
         try:
             options = [
-                "{} is back to alive!",
-                "{} is back!",
-                "{} is now in the chat!",
-                "{} is awake!",
-                "{} is back online!",
-                "{} is finally here!",
+                "{} is Summoned 🔥!",
+                "Flying Raigin⚡ level 2 {} Teleported came back to battlefield",
+                "{} Reinforcements Arrived!🎴",
+                "{} Came back to get more screentime",
+                "Fir aa gaya Bsdk {} Bina waifu ke 2 min baitha nahi jaata? ",
+                "{} Chat karte karte Jindgi Nikal jayegi pata bhi nahi chalega!💀 ",
                 "Welcome back! {}",
                 "Where is {}?\nIn the chat!",
             ]
