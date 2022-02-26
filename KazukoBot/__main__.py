@@ -74,51 +74,51 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hey there, I'm Kazuko,
+𝐊𝐨𝐧'𝐧𝐢𝐜𝐡𝐢𝐰𝐚 𝐬𝐡𝐢𝐧𝐨𝐛𝐢🥷🏻,
 
-I am an Anime themed group management bot
-to help maintaining groups with my super advanced features.
+I'm 𝐭𝐡𝐞 𝐆𝐡𝐨𝐬𝐭 𝐨𝐟 𝐔𝐜𝐡𝐢𝐡𝐚🎴, 𝙈𝙖𝙙𝙖𝙧𝙖 𝙐𝙘𝙝𝙞𝙝𝙖 🩸🔥
+𝐃𝐨 𝐧𝐨𝐭 𝐦𝐢𝐬𝐮𝐧𝐝𝐞𝐫𝐬𝐭𝐚𝐧𝐝 𝐭𝐡𝐢𝐬, 𝐭𝐡𝐢𝐬 𝐢𝐬 𝐧𝐨𝐭 𝐲𝐨𝐮𝐫 𝐩𝐨𝐰𝐞𝐫 𝐨𝐟 𝐜𝐫𝐞𝐚𝐭𝐢𝐨𝐧.
 
-I have lots of handy features such as:
-‣ Warning system
-‣ Artificial intelligence
-‣ Flood control system
-‣ Note keeping system
-‣ Filters keeping system
-‣ Approvals and much more.
+My Basic Jutsu that i can help you with are:
+❛☉❟ Warning system
+❛☉❟ Artificial intelligence
+❛☉❟ Flood control system
+❛☉❟ Note keeping system
+❛☉❟ Filters keeping system
+❛☉❟ Approvals and much more.
 
 So what are you waiting for?
-Add me in your groups and promote me to make me function well[.](https://telegra.ph/file/6d0f29836fda1effbb4ba.jpg)
+Add me in your groups and promote me to make me function well[.](https://telegra.ph/file/8b5265effe0dc1d43f829.jpg)
 """
 buttons = [
     [
-        InlineKeyboardButton(text="Updates", callback_data="https://t.me/KazukoUpdates"),
+        InlineKeyboardButton(text="Updates", callback_data="https://t.me/AnimeGroup_Chats"),
         InlineKeyboardButton(text="About", callback_data="kazuko_"),
-        InlineKeyboardButton(text="Support", callback_data="https://t.me/KazukoSupportChat"),
+        InlineKeyboardButton(text="Support", callback_data="https://t.me/Anime_Hub_Fz"),
       ],
     [
-        InlineKeyboardButton(text="️Add Me", url="t.me/KazukoRobot?startgroup=true"),
+        InlineKeyboardButton(text="️Add Me", url="t.me/Uchiha_Madara_Robot?startgroup=true"),
         InlineKeyboardButton(text="Commands", callback_data="help_back"),
     ],
 ]
 
 HELP_STRINGS = """
-Hey there! My name is Kazuko.
+Hey there! I'm Uchiha MADARA.
 Have a look at the following for an idea of some of
 the things I can help you with.
 Main commands available:
- • /start: Starts me, can be used to check I'm alive or not.
- • /help: PM's you this message.
- • /settings:
+ 🎴 /start: Starts me, can be used to check I'm alive or not.
+ 🍃 /help: PM's you this message.
+ 🀄 /settings:
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
  Click on the buttons below to get documentation about specific modules!
 """
 
-KAZUKO_IMG = "https://telegra.ph/file/6d0f29836fda1effbb4ba.jpg"
+KAZUKO_IMG = "https://telegra.ph/file/3b3e6d1eefb777006e01d.jpg"
 
 DONATE_STRING =  """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](ko-fi.com/heyaaman) or by contacting @heyaaman \
+ You can support the project via join our channel and sharing it @Anime_Hub_Fz 🍒 \
 """
 
 IMPORTED = {}
@@ -198,7 +198,7 @@ def start(update: Update, context: CallbackContext):
                     update.effective_chat.id,
                     HELPABLE[mod].__help__,
                     InlineKeyboardMarkup(
-                        [[InlineKeyboardButton(text="⬅️ BACK", callback_data="help_back")]]
+                        [[InlineKeyboardButton(text="🎴 BACK", callback_data="help_back")]]
                     ),
                 )
 
@@ -230,9 +230,9 @@ def start(update: Update, context: CallbackContext):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton(text="Support",url="https://t.me/KazukoSupportChat",
+                        InlineKeyboardButton(text="Support",url="https://t.me/AnimeGroup_Chats",
                         ),
-                        InlineKeyboardButton(text="Updates",url="https://t.me/KazukoUpdates",
+                        InlineKeyboardButton(text="Updates",url="https://t.me/Anime_Hub_Fz",
                         ),
                     ],
                     [  
