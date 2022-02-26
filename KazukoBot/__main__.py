@@ -86,8 +86,7 @@ My Basic Jutsu that i can help you with are:
 ❛☉❟ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick.
 ❛☉❟ What else you expect from a group management bot -_-
 ❛☉❟ 🎴Hey, aren't you tired of using those girlish bots in your group 🥷🏻,
-
-   Why not replace them with this Badass Bot🔥
+      Why not replace them with this Badass Bot🔥
 
 So what are you waiting for?
 Add me in your groups and promote me to make me function well[.](https://telegra.ph/file/8b5265effe0dc1d43f829.jpg)
